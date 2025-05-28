@@ -1,4 +1,4 @@
 **Автор:** Матвей Демичев 
 **Дата:** *28 мая 2025* 
 
-Описание: типо краткое описание проекта![MEM] (https://avatars.mds.yandex.net/i?id=78b5135ced210cd207e310d96cc36747_l-5678271-images-thumbs&n=13)
+Описание: типо краткое описание проекта ![MEM](https://avatars.mds.yandex.net/i?id=78b5135ced210cd207e310d96cc36747_l-5678271-images-thumbs&n=13)
